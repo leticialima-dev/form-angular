@@ -1,1 +1,23 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+
+    font-family: sans serif;
+  }
+  
+  h1{
+      color:white ;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #d7f9fad8;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(assets/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

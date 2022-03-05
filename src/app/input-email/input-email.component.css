@@ -1,0 +1,17 @@
+label{
+    margin-left: 10px;
+    display: block;
+    color: rgb(4, 7, 204);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 5px;
+    font-size: 20px;
+  }
+  
+  input{
+    margin-left: 10px;
+    height: 40px;
+    width: 280px;
+    border-radius: 10px;
+    border: 1px ;
+    
+  }

@@ -1,0 +1,21 @@
+.basecenter{
+    text-align: center ;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(30, 30, 199);
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+
+  .btn:hover {
+    background: rgb(38, 183, 228)
+    
+    }

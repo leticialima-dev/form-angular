@@ -1,0 +1,12 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 2px solid rgb(38, 183, 228);
+    background-color: #88f4f8d8;
+    min-height: 400px;
+    min-width: 250px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
